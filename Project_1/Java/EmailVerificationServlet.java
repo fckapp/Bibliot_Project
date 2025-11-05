@@ -31,7 +31,7 @@ public class EmailVerificationServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	private static final String FROM_EMAIL = "hamjang99@gmail.com";
-	private static final String FROM_PASSWORD = "ochh smgs qxcq khfs";
+	private static final String FROM_PASSWORD = "변경";
 
 	/**
 	 * @see HttpServlet#HttpServlet()
@@ -191,3 +191,4 @@ public class EmailVerificationServlet extends HttpServlet {
     }
 
 }
+
